@@ -12,3 +12,7 @@ webpack --mode=development
 webpack --config=config/webpack.dev.js
 
 npm i webpack webpack-cli webpack-dev-server
+
+## Loaders
+? How to load CSS files
+? How loaders work
